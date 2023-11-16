@@ -23,5 +23,5 @@ Before you begin, ensure you have the following dependencies installed:
 
 3. **Start the script:**
    Start the script by restarting your server or by using
-   ```console
+   ```bash
    ensure prach_dclink
