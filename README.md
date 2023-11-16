@@ -16,7 +16,7 @@ Before you begin, ensure you have the following dependencies installed:
    Clone or [download](https://github.com/prasifka/prach_dclink/archive/refs/heads/main.zip) the `prach_dclink` repository to your FiveM server resources folder.
 
    ```bash
-   git clone https://github.com/your-username/prach_dclink.git
+   git clone https://github.com/prasifka/prach_dclink.git
 
 2. **Start the script:**
    Start the script by restarting your server or by using the ensure command
