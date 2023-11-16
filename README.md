@@ -22,6 +22,6 @@ Before you begin, ensure you have the following dependencies installed:
    Upload the script to your servers `/resources/` folder
 
 3. **Start the script:**
-   Start the script by restarting your server or by using
+   Start the script by restarting your server or by using the ensure command
    ```bash
    ensure prach_dclink
