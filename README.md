@@ -17,3 +17,11 @@ Before you begin, ensure you have the following dependencies installed:
 
    ```bash
    git clone https://github.com/your-username/prach_dclink.git
+
+2. **Upload the Script:**
+   Upload the script to your servers `/resources/` folder
+
+3. **Start the script:**
+   Start the script by restarting your server or by using
+   ```console
+   ensure prach_dclink
